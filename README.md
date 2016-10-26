@@ -8,7 +8,6 @@ The steps in this document assume that you have access to an OpenShift deploymen
 
 This is a minimal Django 1.8 project. It was created with these steps:
 
-1. Create a virtualenv
 2. Manually install Django and other dependencies
 3. `pip freeze > requirements.txt`
 4. `django-admin startproject project .`
